@@ -1,0 +1,128 @@
+How many valence electrons are there in an atom of silicon?
+4|5
+How many protons does the silicon ion contain?
+26|27
+What is the symbol for the element manganese?
+Mn|Mg
+What is the name of the element whose symbol is K?
+Potassium|Krypton
+Which of the following atoms is largest: Na, K, Mg, Ca?
+K|Mg
+Which of the following ions is largest: Na+, K+, Mg2+, Ca2+?
+K+|Mg2+
+Which of the following elements is most likely to form a -2 ion? Ca, Fe, C, S, Br
+S|Ca
+Which of the following elements is/are diatomic gases at ordinary temperature and pressure? neon, sodium, oxygen, bromine, carbon
+oxygen|neon
+What is the period number for the element iodine?
+5|7A
+Which element is easiest to ionize (has the lowest first ionization energy)? sodium, potassium, magnesium, calcium, fluorine
+potassium|sodium
+What is the formula of sulfuric acid?
+H2SO4|HSO3
+What is the formula for calcium chloride?
+CaCl2|CaCl
+What is the formula for iron(III) oxide?
+Fe2O3|FeO
+What is the systematic (IUPAC) name of P4O10?
+Tetraphosphorousdecoxide|Tetraphosphorousnonoxide
+What is the systematic (IUPAC) name of Cu(NO3)2?
+Copper(II)nitrate|Copper nitrate
+What is the oxidation number of phosphorus in H3PO3?
++3|+2
+What is the oxidation number of nitrogen in Ca(NO2)2?
++3|+2
+What is the oxidation number of sulfur in Na2S2O3?
++2|+3
+What do the letters VSEPR stand for?
+Valence Shell Electron Pair Repulsion|Very Shiny Electron Pair Rinse
+What is the formula of the reaction product when sodium reacts with iodine?
+NaI|Na2I2
+What are the formulas of the products when nitric acid, HNO3, reacts with aluminum hydroxide, Al(OH)3?
+Al(NO3)3 + H2O|Al(NO3)3 + H3O+
+Give the formulas of the acid and the base that must be used to make the salt, (NH4)2SO4.
+NH4OH and H2SO4|NaOH and H2SO4
+Find the mass percentage of iron in Fe2O3. Atomic weights: Fe 55.8, O 16.0.
+69.8%|68.9%
+What is the molar mass of SrCl2*6H2O? Include the correct units in your answer. Atomic weights: Sr 87.6, Cl 35.5, H 1.01, O 16.0.
+266.7 g/mol|108.12 g/mol
+How many moles of oxygen are required to react with 12.0 grams of carbon to produce carbon monoxide? Atomic weights: C 12.0, O 16.0.
+0.5 moles of O2|0.4 moles of O2
+A compound of sulfur and fluorine contains 29.7% S and 70.3% F (percentages are by mass). What is the empirical formula of the compound?
+SF4|SF3
+How many grams of AlCl3 can be produced when 0.100 moles of aluminum reacts with excess chlorine? Atomic weights: Al 27.0, Cl 35.5.
+13.4 g|15.3 g
+What is the molarity of a copper(II) chloride solution if 10.0 grams of CuCl2 are dissolved in water to give 250.0 mL of solution? The molar mass of CuCl2 is 134.5 g/mol.
+0.297M|0.312M
+What is the molarity of a sodium hydroxide solution if 50.0 mL of the solution requires 38.6 mL of 0.0976 M HCl for titration?
+0.0753M|0.753M
+The elements characterized as nonmetals are located in the periodic table at the:
+top right|far left
+Elements that have properties of both metals and nonmetals are called:
+metalloids|transition elements
+Which is the atomic number of an alkali metal?
+11|10
+Which element is a halogen?
+iodine|neon
+Which element forms a colored ion in solution?
+Mg|K
+Which element derives its symbol from the Latin word, aurum, which means 'shining dawn'?
+Gold|Silver
+Given the general formula XCl2 Which element in Period 3 of the periodic table will form a chloride having the above formula?
+Mg|Si
+The elements in the present Periodic Table are arranged according to their:
+atomic numbers|atomic masses
+Elements in Period 3 are alike in that they all have the same number of:
+electrons in the valence shell|occupied principal energy levels
+The majority of the elements in the Periodic Table are
+metals|nonmetals
+Which is an example of a metalloid?
+silicon|strontium
+Which element exists as a diatomic molecule at STP?
+bromine|argon
+Which element is a liquid at STP?
+Hg|I
+All elements whose atoms in the ground state have a total of 5 electrons in their outermost p sublevel are called:
+halogens|noble gases
+Which element will have the most vigorous reaction with water?
+sodium|magnesium
+Which is an alkaline earth metal?
+Ca|Na
+As one proceeds from left to right across a given period on the Periodic Table the electronegativities of the elements generally:
+increase|decrease
+As one proceeds from flourine to astatine in Group VIIA the electronegativity:
+decreases and the atomic radius increases|decreases and the atomic radius decreases
+Which element will react violently with water at room temperature?
+potassium|iodine
+Which element will never have a positive oxidation number?
+oxygen|iodine
+At STP, which element is a solid?
+carbon|argon
+Which element exists as monatomic molecules at STP?
+argon|nitrogen
+Beryllium is classified as:
+an alkaline earth metal|an alkali metal
+Ozone is an allotropic form of the element:
+oxygen|carbon
+When a fluorine atom becomes an ion, it will:
+gain an electron and increase in size|lose an electron and increase in size
+Which element can form more than one binary compound with chlorine?
+Fe|K
+Proceeding from left to right in Period 2 of the Periodic Table the covalent radius of the elements generally:
+decreases|increases
+An atom of fluorine is smaller than an atom of oxygen. One possible explanation is that, compared with oxygen, fluorine has:
+more unpaired electrons|a smaller atomic number
+A characteristic of the halogens is that they have relatively:
+high electronegativities|low ionization energies
+On the Periodic Table of the Elements all the elements within Group VIA have the same number of:
+valence electrons|energy levels
+Which compound contains an alkali metal and a halogen?
+RbCl|Rb2S
+More than two-thirds of the elements of the Periodic Table are:
+metals|nonmetals
+Which of the following elements has the lowest electronegativity?
+carbon|fluorine
+Which is an alkaline earth metal?
+Mg|Li
+Which element is considered malleable?
+gold|sulfur
